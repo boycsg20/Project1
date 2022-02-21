@@ -9,6 +9,16 @@ https://user-images.githubusercontent.com/90404125/154889580-a0416ab9-6658-4aa9-
 [projectonepic1.pdf](https://github.com/boycsg20/Project1/files/8106210/projectonepic1.pdf)
 [porjectonepic2.pdf](https://github.com/boycsg20/Project1/files/8106211/porjectonepic2.pdf)
 [Project1code.pdf](https://github.com/boycsg20/Project1/files/8111582/Project1code.pdf)
+
+
+
+
+
 <img width="714" alt="prototype_sketch_1" src="https://user-images.githubusercontent.com/90404125/155014353-50d42bf4-6b17-4693-8497-c8bb86140062.png">
+
+
+
+
+
 <img width="718" alt="prototype_sketch_2" src="https://user-images.githubusercontent.com/90404125/155014366-543d3bf6-ff02-410b-9de5-4b2704c72289.png">
 
