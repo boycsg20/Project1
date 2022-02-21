@@ -3,8 +3,11 @@ Here will include all our videos, images, and process of completing the project.
 
 
 https://user-images.githubusercontent.com/90404125/154889580-a0416ab9-6658-4aa9-be5b-12309fad7f2f.mov
+
 [projectonepic1.pdf](https://github.com/boycsg20/Project1/files/8106210/projectonepic1.pdf)
+
 [porjectonepic2.pdf](https://github.com/boycsg20/Project1/files/8106211/porjectonepic2.pdf)
+
 [Project1code.pdf](https://github.com/boycsg20/Project1/files/8111582/Project1code.pdf)
 
 
